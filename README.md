@@ -44,7 +44,7 @@ Welcome to Rajan's Portfolio! 🎨 This site is designed to showcase my skills, 
 
 ## 📬 Contact
 
-- **Email**: [rajarp115@gmail.com](mailto:rajarp115@gmail.com)
+- **Email**: [rajanrp115@gmail.com](mailto:rajarp115@gmail.com)
 - **LinkedIn**: [Rajan's LinkedIn](https://www.linkedin.com/in/rajanrp115/)
 - **GitHub**: [Rajan's GitHub](https://github.com/RAJAN-115)
 - **WhatsApp**: [Contact Me](https://wa.me/9545993850)
