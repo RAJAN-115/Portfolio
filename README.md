@@ -1,3 +1,4 @@
+
 # Rajan's Portfolio 🚀
 
 Welcome to Rajan's Portfolio! 🎨 This site is designed to showcase my skills, education, experience, and projects. Dive in to explore my journey!
@@ -59,3 +60,6 @@ Welcome to Rajan's Portfolio! 🎨 This site is designed to showcase my skills, 
 ---
 
 **Designed with ❤️ by Rajan Prajapati**
+=======
+# Portfolio
+>>>>>>> 96871a64da706d4508bc0e0fbc808835724a64c6
